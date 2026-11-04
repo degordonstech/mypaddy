@@ -12,6 +12,8 @@ MyPaddy is an AI agent in your Telegram that acts first. Most assistants wait fo
 
 ## What it does
 
+**Just talk to it.** Ask it anything, think out loud, vent about your day or plan your week. It chats like a friend, and when something you say needs doing, it does it.
+
 **Remembers for you.** Facts (a meter number, a matric number, where you kept the spare key), people and their birthdays, files you ask it to keep, shopping and to-do lists, and notes from voice notes. Saved files are read once, so later you can ask "how much is my caution fee?" and get the answer from your own tenancy agreement. "What do you know about me?" shows everything, and anything can be deleted.
 
 **Reminds you, and talks first.** Reminders from plain words, once or on repeat, with Done, In 1 hour and Tomorrow buttons. It picks up plans you mention in passing ("I'll submit it Thursday") and warns you when a new reminder clashes with a class or exam. A photo of a timetable, an exam timetable, an invite or a bill becomes a full set of reminders in one go. Each morning it sends a short greeting written from your day, an evening check-in at 9pm and a weekly summary on Sunday.
